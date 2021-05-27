@@ -1,0 +1,23 @@
+[
+  {
+    "firstname": "authorfirstname",
+    "lastname": "authorlastname",
+    "phonenumber": 12345678,
+    "reference": "AUTHOR_REF"
+  },
+
+  {
+    "name": "publishername",
+    "address": "publisher address",
+    "phonenumber": 12345678,
+    "reference": "PUBLISHER_REF"
+  },
+  {
+    "name": "book name",
+    "author": "objectid author",
+    "publisher": "objectid publisher",
+    "isbn": "isbn number",
+    "pages": "000",
+    "edition": "0"
+  }
+]
